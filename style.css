@@ -1,8 +1,8 @@
 body {
-  background color: rgb(230, 230, 230);
-  font-family: Helvetica;
+    background-color: rgb(230, 230, 230);
+    font-family: Arial;
 }
 
-h1  {
-  border-bottom: 2px, solid, blue;
+h1 {
+    border-bottom: 2px, solid, blue;
 }

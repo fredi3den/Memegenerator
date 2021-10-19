@@ -2,7 +2,7 @@
 
 ## Wie wird es konfiguriert und installiert?
 
-Um auf die Webseite dieses Projektes zu kommen, geben sie ***fredi3den.github.io*** in ihren browser ein oder klicken Sie auf diesen Link: [Memegenerator](https://www.youtube.com)
+Um auf die Webseite dieses Projektes zu kommen, geben sie ***fredi3den.github.io*** in ihren browser ein oder klicken Sie auf diesen Link: [Memegenerator](https://fredi3den.github.io)
 
 ## Ein Beispiel, wie man es anwendet oder zum Laufen bringt?
 

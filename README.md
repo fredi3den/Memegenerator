@@ -2,7 +2,7 @@
 
 ## Wie wird es konfiguriert und installiert?
 
-Um auf die Webseite dieses Projektes zu kommen, geben sie ***fredi3den.github.io*** in ihren browser ein oder klicken Sie auf diesen Link: [Memegenerator](https://fredi3den.github.io)
+Um auf die Webseite dieses Projektes zu kommen, klicken Sie auf diesen Link: [**Memegenerator**](https://fredi3den.github.io) oder geben Sie ***fredi3den.github.io*** in Ihren browser ein.
 
 ## Ein Beispiel, wie man es anwendet oder zum Laufen bringt?
 

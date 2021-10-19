@@ -2,6 +2,8 @@
 
 ## Wie wird es konfiguriert und installiert?
 
+Um auf die Webseite dieses Projektes zu kommen, geben sie ***fredi3den.github.io*** in ihren browser ein.
+
 ## Ein Beispiel, wie man es anwendet oder zum Laufen bringt?
 
 ## Wie man dazu beitragen kann?

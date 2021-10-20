@@ -28,11 +28,11 @@ body,
 }
 
 #reloadbtn  {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #4CAF50;
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
 }
 #reloadbtn:hover {
-  background-color: #4CAF50;
+  background-color: #555555;
   color: white;
 }

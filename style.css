@@ -28,7 +28,7 @@ body,
 }
 
 #reloadbtn  {
-    color: lightgray;
+    background-color: lightgray;
     border: 2px solid black;
     transition-duration: 0.4s;
 }

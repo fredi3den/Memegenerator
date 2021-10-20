@@ -27,5 +27,4 @@ Man kann etwas zum Projekt beitragen indem man weitere IDs von den Meme Bildern 
 
 ## Lizenz:
 
-Wir haben die **MIT Lizenz** ausgewählt.
-In dem File _LICENSE_ befinden sich die Informationen bezüglich der von uns genutzten Lizenz.
+Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob/main/LICENSE) ausgewählt.

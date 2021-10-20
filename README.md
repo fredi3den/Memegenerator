@@ -6,24 +6,24 @@ Um auf die Webseite dieses Projektes zu kommen, klicken Sie auf diesen Link: [**
 
 ## Ein Beispiel, wie man es anwendet oder zum Laufen bringt?
 
-## Wie man dazu beitragen kann?
-
-Man kann etwas zum Projekt beitragen indem man weitere IDs von den Meme Bildern hinzufügt und andre Über-/Unterschriften hinzufügt, so das sie in den zufälligen Auswahlprozess der Bilder und Texte mit einfliessen.
-
 ## Wofür ist das Projekt vorgesehen?
 
 Wir haben die Projekt idee sehr simpel gehalten.
 Unser Projekt generiert legentlicht ein zufälliges Meme.
-Wir benutzen dabei die API einer Seite names imgflip.com, diese kann benutzts werden kann um eigene Memes zu generieren.
+Wir benutzen dabei die API einer Seite namens imgflip.com, diese kann benutzt werden um eigene Memes zu generieren.
+
+## Liste der Teammitglieder:
+ * Frédéric
+ * Felix
+
+## Wie man dazu beitragen kann?
+
+Man kann etwas zum Projekt beitragen indem man weitere IDs von den Meme Bildern hinzufügt und andre Über-/Unterschriften hinzufügt, so das sie in den zufälligen Auswahlprozess der Bilder und Texte mit einfliessen.
 
 ## Quellen:
 
 | https://imgflip.com |
 | https://imgflip.com/api |
-
-## Liste der Teammitglieder:
- * Frédéric
- * Felix
 
 ## Lizenz:
 

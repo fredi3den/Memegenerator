@@ -26,3 +26,13 @@ body,
     font-family: "Helvetica";
     font-size: 35px;
 }
+
+#reloadbtn  {
+       color: lightgray;
+       transition-duration: 0.4s;
+}
+
+#reloadbtn:hover {
+  background-color: gray;
+  color: white;
+}

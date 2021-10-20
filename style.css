@@ -28,11 +28,12 @@ body,
 }
 
 #reloadbtn  {
-       color: lightgray;
-       transition-duration: 0.4s;
+    color: lightgray;
+    border: 2px solid black;
+    transition-duration: 0.4s;
 }
 
 #reloadbtn:hover {
-  background-color: gray;
-  color: white;
+    background-color: gray;
+    color: white;
 }

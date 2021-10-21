@@ -9,16 +9,16 @@ Um auf die Webseite dieses Projektes zu kommen, klicken Sie auf diesen Link: [**
 ## Wofür ist das Projekt vorgesehen?
 
 Wir haben die Projekt idee sehr simpel gehalten.
-Unser Projekt generiert legentlicht ein zufälliges Meme.
+Unser Projekt generiert legentlicht ein zufälliges Meme Template.
 Wir benutzen dabei die API einer Seite namens imgflip.com, diese kann benutzt werden um eigene Memes zu generieren.
 
 ## Liste der Teammitglieder:
- * Frédéric
  * Felix
+ * Frédéric
 
 ## Wie man dazu beitragen kann?
 
-Man kann etwas zum Projekt beitragen indem man weitere IDs von den Meme Bildern hinzufügt und andre Über-/Unterschriften hinzufügt, so das sie in den zufälligen Auswahlprozess der Bilder und Texte mit einfliessen.
+Man kann etwas zum Projekt beitragen indem man weitere IDs von den Meme Bildern hinzufügt und andre Über-/Unterschriften hinzufügt, so dass sie in den zufälligen Auswahlprozess der Bilder und Texte mit einfliessen.
 
 ## Quellen:
 

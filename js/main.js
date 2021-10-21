@@ -1,16 +1,13 @@
-fetch("https://quotes15.p.rapidapi.com/quotes/random/", {
-        "method": "GET",
-        "headers": {
-            "x-rapidapi-host": "quotes15.p.rapidapi.com",
-            "x-rapidapi-key": "bb43b30500msh92c25213cf9f840p11f123jsn1e06bc3c8f82"
-        }
+fetch("https://api.imgflip.com/get_memes", {
+
     })
     .then(response => response.json())
     .then(response => {
         console.log(response);
+        const meme = response.data.memes[~~(Math.random() * response.data.memes.length)];
 
-        document.getElementById('quote').innerHTML = response.content;
-        document.getElementById('author').innerHTML = '- ' + response.originator.name + ' -';
+        document.getElementById('name').innerHTML = meme.name;
+        document.getElementById('image').src = meme.url;
     })
     .catch(err => {
         console.error(err);

@@ -1,4 +1,6 @@
-# Memegenerator
+<p align="center">
+    <img src=logo.png>
+</p>
 
 ## Wie wird es konfiguriert und installiert?
 

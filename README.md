@@ -17,6 +17,7 @@ Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob
 
 ## Quellen:
  https://imgflip.com 
+ 
  https://imgflip.com/api 
 
 ## Liste der Teammitglieder:

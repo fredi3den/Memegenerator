@@ -14,19 +14,24 @@ Wir haben die Projektidee sehr simpel gehalten.
 Unser Projekt generiert legentlicht ein zufälliges Meme Template.
 Wir benutzen dabei die API einer Seite namens [imgflip.com](imgflip.com), diese kann benutzt werden um eigene Memes zu erstellen.
 
+## Lizenz:
+
+Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob/main/LICENSE) ausgewählt.
+
+## Quellen:
+
+ https://imgflip.com 
+ https://imgflip.com/api 
+
 ## Liste der Teammitglieder:
  * Felix
  * Frédéric
 
+## SMART-Ziele
+
+# S
+Test
+
 ## Wie man dazu beitragen kann?
 
 Man kann etwas zum Projekt beitragen indem man weitere IDs von den Meme Bildern hinzufügt und andre Über-/Unterschriften hinzufügt, so dass sie in den zufälligen Auswahlprozess der Bilder und Texte einfliessen.
-
-## Quellen:
-
-| https://imgflip.com |
-| https://imgflip.com/api |
-
-## Lizenz:
-
-Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob/main/LICENSE) ausgewählt.

@@ -31,5 +31,5 @@ Unsere Projekt der CodeWeek soll eine Website sein, auf man ein Meme Template ge
 
 ## Teamkodex
 <p align="center">
-    <img src=pictures/Team-Kodex.png>
+    <img src=pictures/Team-Kodex.jpg>
 </p>

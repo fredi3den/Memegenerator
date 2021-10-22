@@ -8,7 +8,7 @@ body {
 h1 {
     position: absolute;
     margin: auto;
-    color: #D6D6D6
+    color: #D6D6D6;
 }
 
 .container {
@@ -18,7 +18,7 @@ h1 {
     padding: 30px;
     margin-top: 200px;
     width: 40%;
-    background-color: #16B1B5;
+    background-color: #66FCF1;
 }
 
 #image {
@@ -42,10 +42,10 @@ h1 {
     width: 200px;
     background-color: #4F4F51;
     color: #D6D6D6;
-    border: 2px solid #16B1B5;
+    border: 2px solid #66FCF1;
 }
 
 #reloadbtn:hover {
-    background-color: #16B1B5;
+    background-color: #66FCF1;
     color: #2C2B30;
 }

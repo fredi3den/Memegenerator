@@ -30,5 +30,5 @@ Test
 
 ## Teamkodex
 <p align="center">
-    <img src=Team-Kodex.png>
+    <img src=Team-Kodex.jpg>
 </p>

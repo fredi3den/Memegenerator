@@ -16,8 +16,7 @@ Wir benutzen dabei die API einer Seite namens [imgflip.com](imgflip.com), diese 
 Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob/main/LICENSE) ausgewählt.
 
 ## Quellen:
- https://imgflip.com 
- 
+ https://imgflip.com \
  https://imgflip.com/api 
 
 ## Liste der Teammitglieder:
@@ -30,5 +29,6 @@ Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob
 Test
 
 ## Teamkodex
-* Test
-* Test
+<p align="center">
+    <img src=Team-Kodex.png>
+</p>

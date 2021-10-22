@@ -38,7 +38,7 @@ Die Website soll ohne Probleme laufen (Grafikfehler, nicht laden des Bildes oder
 **A = Attraktiv**
 
 Viele Leute, vor allem Personen in unserem Alter, sind mit diesen Meme Templates vertraut und werden sich an viele davon erinnern. An was sich aber viele der Leute höchstwarscheinlich nicht erinnern können ist, was die Namen der Templates waren. Deswegen ist das Anzeigen des Names unter dem Bild aus Unserer sicht etwas was unsere Seite Attraktiv macht. \
-Ein weiterer Punkt wäre das man sich durch das schlichte designe der Website voll und ganz auf die Templates sowie Namen fokusieren kann, ohne das die Seite langweilig oder gar unschön aussieht.
+Ein weiterer Punkt wäre, dass man sich durch das schlichte Design der Webseite voll und ganz auf die Templates und ihre Namen fokussieren kann, ohne das die Seite langweilig oder unschön aussieht.
 
 **R = Realistisch**
 

@@ -4,7 +4,7 @@
 
 ## Wie wird es konfiguriert und installiert?
 
-Um auf die Webseite dieses Projektes zu kommen, benutzen Sie diesen Link: [**Meme Template**](https://fredi3den.github.io) oder geben Sie ***fredi3den.github.io*** in Ihren browser ein.
+Um auf die Webseite dieses Projektes zu kommen, benutzen Sie diesen [**Link**](https://fredi3den.github.io), oder geben Sie ***fredi3den.github.io*** in Ihren browser ein.
 
 Um ein neues Template zu bekommen, klicken Sie auf den *Next Template* Button.
 

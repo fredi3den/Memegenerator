@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=logo.png>
+    <img src=pictures/logo.png>
 </p>
 
 ## Wie wird es konfiguriert und installiert?
@@ -29,5 +29,5 @@ Test
 
 ## Teamkodex
 <p align="center">
-    <img src=Team-Kodex.jpg>
+    <img src=pictures/Team-Kodex.jpg>
 </p>

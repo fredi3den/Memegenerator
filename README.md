@@ -50,9 +50,9 @@ Der Abgabetermin wird logischerweise eingehalten.
 
 **T = Terminiert**
 
-Die Ziele müssen alle am 22.10 fertig sein, weil dann die Abgabe ist.
+Die Ziele müssen alle am 22.10.2021 fertig sein, weil dann die Abgabe ist.
 
-Wenn Sie sehen wollen welche teile bis wann fertig sein sollte, kann ich sie auf unser **Kanban** verweises was sich hier auf Github unter **Projects** finden.
+Wenn Sie sehen wollen welche teile bis wann fertig sein sollten, kann ich sie auf unser **Kanban** verweises was sich hier auf Github unter **Projects** finden.
 
 ## Teamkodex
 <p align="center">

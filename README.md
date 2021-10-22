@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=picture/logo.png>
+    <img src=pictures/logo.png>
 </p>
 
 ## Wie wird es konfiguriert und installiert?
@@ -31,5 +31,5 @@ Unsere Projekt der CodeWeek soll eine Website sein, auf man ein Meme Template ge
 
 ## Teamkodex
 <p align="center">
-    <img src=picture/Team-Kodex.png>
+    <img src=pictures/Team-Kodex.png>
 </p>

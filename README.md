@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=pictures/logo.png width="400px" height="400px">
+    <img src=pictures/logo.png>
 </p>
 
 ## Wie wird es konfiguriert und installiert?

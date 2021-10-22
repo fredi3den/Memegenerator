@@ -30,6 +30,10 @@ Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob
 
 Unsere Projekt der CodeWeek soll eine Website sein, auf man ein Meme Template gezeigt bekommt. Als kleinen bonus steht der Name des Templates unter dem Bild selber. Durch das drücken des *Next Template* Buttons wird eine anderes Template gezeigt.
 
+<p align="center">
+    <img src=pictures/Website.png>
+</p>
+
 **M = Messbar**
 
 Der Abgabetermin wird logischerweise eingehalten. Dazu kommt das die Website ohne probleme laufen soll (Grafikfehler, Nicht laden des Bildes oder das anzeiges des falschen Namens unter dem Bild). Ausserdem ist unsere Website repsonsiv, so das man sie in der Theorie sowie der Praxis auch auf Handys ohne probleme benutzen könnte.

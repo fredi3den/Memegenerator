@@ -25,7 +25,7 @@ Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob
  * Frédéric
 
 # SMART-Ziele
-**S Steht für Spezifisch** 
+**S = Spezifisch** 
 
 Test
 

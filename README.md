@@ -50,9 +50,8 @@ Der Abgabetermin wird logischerweise eingehalten.
 
 **T = Terminiert**
 
-Die Ziele müssen alle am 22.10.2021 fertig sein, weil dann die Abgabe ist.
-
-Wenn Sie sehen wollen welche teile bis wann fertig sein sollten, kann ich sie auf unser **Kanban** verweises was sich hier auf Github unter **Projects** finden.
+Die Ziele müssen alle am 22.10.2021 fertig sein, weil dann die Abgabe ist.\
+Wenn Sie sehen wollen welche Teile bis wann fertig sein sollten, kann ich sie auf unser [**Kanban**](https://github.com/fredi3den/fredi3den.github.io/projects/2) verweisen.
 
 ## Teamkodex
 <p align="center">

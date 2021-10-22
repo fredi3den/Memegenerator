@@ -22,8 +22,9 @@ h1 {
 }
 
 #image {
-    margin-top: 10px;
-    font-size: 35px;
+    margin: auto;
+    width: 60%;
+    height: auto;
 }
 
 #name {

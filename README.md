@@ -36,9 +36,23 @@ Unsere Projekt der CodeWeek soll eine Website sein, auf man ein Meme Template ge
 
 **M = Messbar**
 
-Der Abgabetermin wird logischerweise eingehalten. Dazu kommt das die Website ohne probleme laufen soll (Grafikfehler, Nicht laden des Bildes oder das anzeiges des falschen Namens unter dem Bild). Ausserdem ist unsere Website repsonsiv, so das man sie in der Theorie sowie der Praxis auch auf Handys ohne probleme benutzen könnte.
+Die Website ohne probleme laufen soll (Grafikfehler, Nicht laden des Bildes oder das anzeiges des falschen Namens unter dem Bild). Ausserdem ist unsere Website repsonsiv, so das man sie in der Theorie sowie der Praxis auch auf Handys ohne probleme benutzen könnte.
 
 **A = Attraktiv**
+
+Viele Leute vor allem Personen in unserem Alter sind mit diesen Meme Templates vertraut, und werden sich an viele davon erinnern. An was sich aber viele der Leute höchstwarscheinlich nicht erinnern können ist, was die Nämen der Templates waren. Dessweg ist das Anzeiges des Names unter dem Bild aus Unserer sicht etwas was unsere Seite Attraktiv macht. 
+
+Ein weiterer Punkt wäre das man sich durch das schlichte designe der Website voll und ganz auf die Templates sowie Namen fokusieren kann, ohne das die Seite langweilig oder gar unschön aussieht.
+
+**R = Realistisch**
+
+Der Abgabetermin wird logischerweise eingehalten. 
+
+**T = Terminiert**
+
+Die Ziele müssen alle am 22.10 fertig sein, weil dann die Abgabe ist.
+
+Wenn Sie sehen wollen welche teile bis wann fertig sein sollte, kann ich sie auf unser **Kanban** verweises was sich hier auf Github unter **Projects** finden.
 
 ## Teamkodex
 <p align="center">

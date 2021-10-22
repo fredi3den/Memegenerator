@@ -56,20 +56,20 @@ Wenn Sie sehen wollen welche Teile bis wann fertig sein sollten, kann ich sie au
 
 **Ausgeglichenheit**
 
-Wir wollten die Arbeit 50/50 aufteilen, was wir auch recht gut geschaft haben. Es kam keinen von uns beiden so vor als ob der jeweils andere weniger machen würde.
+Wir wollten die Arbeit 50/50 aufteilen, was wir auch recht gut geschaft haben. Es kam keinen von uns beiden vor, als ob der jeweils Andere weniger machen würde.
 
 **Hilfsbereitschaft**
 
-Wir haben uns gegenseitig immer so gut es ging geholfen. Wenn man nicht weiter gekommen war da der code nicht funktioniert konten wir uns gegenseitig ehre schlecht helfen, aber sonst ging das helfen recht gut (wie bspw. kurz etwas für den andern nachschauen, etwas raussuchen, etc.)
+Wir haben uns gegenseitig immer so gut es ging geholfen. Wenn der Code mal nicht funktionierte, konnten wir uns gegenseitig eher schlecht helfen, aber sonst ging das Helfen recht gut (wie bspw. kurz etwas für den andern nachschauen, etwas raussuchen, etc.)
 
 **Kommunikation**
 
-Im Bereich Kommunikation lief alles bestens. Wir haben us eigentlich regelmässig auf dem Laufenden gehalten wie die Arbeit bei uns vorangeht oder was wir noch machen könnten um die Webseite zu verbessern.
+Im Bereich Kommunikation lief alles bestens. Wir haben us eigentlich regelmässig auf dem Laufenden gehalten, wie die Arbeit bei uns vorangeht oder was wir noch machen könnten, um die Webseite zu verbessern.
 
 **Zuverlässigkeit**
 
-Zuverlässigkeit war nie ein Problem. Wir haben unsere dinge immer bis zur deadline fertig gehabt und wussten die meiste Zeit über auch woran der jeweils andere gerade Arbeitet.
+Zuverlässigkeit war nie ein Problem. Wir haben unsere Dinge immer bis zur deadline fertig gehabt und wussten die meiste Zeit, woran der Andere gerade arbeitet.
 
 **Ehrlichkeit**
 
-Wir waren wärend der Arbeit immer ehrlich zu einander. Wenn wir nicht weiterkamen haben wir es dem jeweils andern mitgeteilt. Genau so lief es auch mit der Kritik. Sollte es mal etwas zu haben was man verbessern könnte haben wir das dem Anderen gesagt, was auch nie falsch aufgefasst wird da wir ja beide das selbe Ziel haben.
+Wir waren wärend der Arbeit immer ehrlich zu einander. Wenn wir nicht weiterkamen haben wir es dem Andern mitgeteilt. Genau so lief es auch mit der Kritik. Sollte es mal etwas zu haben was man verbessern könnte, haben wir das dem Anderen gesagt, was auch nie falsch aufgefasst wird da wir ja beide das selbe Ziel haben.

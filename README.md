@@ -29,7 +29,7 @@ Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob
 
 ## SMART-Ziele
 
-* S
+**S**
 Test
 
 ## Wie man dazu beitragen kann?

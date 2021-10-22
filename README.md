@@ -32,7 +32,7 @@ Unsere Projekt der CodeWeek soll eine Website sein, auf man ein Meme Template ge
 
 **M = Messbar**
 
-Der Abgabetermin wird logischerweise eingehalten. Dazu kommt das die Website ohne probleme laufen soll(Grafikfehler, Nicht laden des Bildes oder das anzeiges des falschen Namens unter dem Bild). Ausserdem ist unsere Website repsonsiv, so das man sie in der Theorie sowie der Praxis auch auf Handys ohne probleme benutzen könnte.
+Der Abgabetermin wird logischerweise eingehalten. Dazu kommt das die Website ohne probleme laufen soll (Grafikfehler, Nicht laden des Bildes oder das anzeiges des falschen Namens unter dem Bild). Ausserdem ist unsere Website repsonsiv, so das man sie in der Theorie sowie der Praxis auch auf Handys ohne probleme benutzen könnte.
 
 ## Teamkodex
 <p align="center">

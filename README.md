@@ -24,7 +24,7 @@ Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob
  * Frédéric
 
 # SMART-Ziele
-**Spezifisch**
+*Spezifisch*
 Test
 
 ## Teamkodex

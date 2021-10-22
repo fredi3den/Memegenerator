@@ -27,7 +27,7 @@ Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob
  * Felix
  * Frédéric
 
-## SMART-Ziele
+# SMART-Ziele
 
 **S**
 Test

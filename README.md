@@ -27,7 +27,7 @@ Wir haben die [MIT Lizenz](https://github.com/fredi3den/fredi3den.github.io/blob
 # SMART-Ziele
 **S = Spezifisch** 
 
-Unsere Projekt der CodeWeek soll eine Website sein, auf man ein Meme Template gezeigt bekommt. Durch das drücken des *Next Template* Buttons wird eine anderes Template gezeigt.
+Unsere Projekt der CodeWeek soll eine Website sein, auf man ein Meme Template gezeigt bekommt. Als kleinen bonus steht der Name des Templates unter dem Bild selber. Durch das drücken des *Next Template* Buttons wird eine anderes Template gezeigt.
 
 
 
